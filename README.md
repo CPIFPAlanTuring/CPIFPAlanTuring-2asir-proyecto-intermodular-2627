@@ -122,15 +122,12 @@ Las **nueve** exposiciones son **consecutivas** (sin descanso programado) y ocup
 
 | Hora inicio | Hora fin (aprox.) | Orden | Grupo / persona(s) |
 |-------------:|------------------:|------:|---------------------|
-| 9:00 | 9:15 | 1 | Sergii, Lucas, Samuel Márquez |
-| 9:15 | 9:30 | 2 | Francisco, Antonio Salces, Ángela |
-| 9:30 | 9:45 | 3 | Alberto, Javier |
-| 9:45 | 10:00 | 4 | Jose María, Antonio Cano, Adrián |
-| 10:00 | 10:15 | 5 | Salvador, Samuel García, Mario García |
-| 10:15 | 10:30 | 6 | Rosario, Álvaro |
-| 10:30 | 10:45 | 7 | Ezequiel, José Antonio Domínguez |
-| 10:45 | 11:00 | 8 | Guillermo |
-| 11:00 | 11:15 | 9 | Hugo |
+| 9:00 | 9:15 | 1 | Angoloti Cerrada, Lucas<br>García Martín, Daniel<br>Núñez Luque, Carlos |
+| 9:15 | 9:30 | 2 | Báez Lezcano, Lisa Jeannette<br>Calvo Verdaguer, María del Carmen<br>Ordóñez López, María |
+| 9:30 | 9:45 | 3 | Carvajal Benítez, Miguel<br>Ordóñez De la Higuera, Javier<br>Gutiérrez Quintana, Óscar |
+| 9:45 | 10:00 | 4 | Liñán Tagliaferri, Alejandro Rafael<br>Ruiz Gómez, Juan Antonio<br>Sánchez Zaragoza, Ricardo |
+| 10:00 | 10:15 | 5 | Bueno Gálvez, José Carlos<br>Díaz García, Oscar Manuel<br>Calvo Verdaguer, Juan Carlos |
+| 10:15 | 10:30 | 6 | Alcaide Fernández, Jose |
 
 > Si un equipo termina antes de su ventana, **no** se adelanta el siguiente sin consenso del tribunal (evita solapamientos y da tiempo al cambio de equipos).
 
