@@ -1,12 +1,8 @@
 # Proyecto Intermodular de 2º ASIR
-**Curso 2026|27**
-
-En este repositorio se encuentra centralizada toda la información relativa al **Proyecto Intermodular de Administración de Sistemas Informáticos en Red (ASIR) del CPIFP Alan Turing**, en la convocatoria del curso 2026|27.
-
 **Centro:** CPIFP Alan Turing (Málaga)  
-**Ciclo:** Administración de Sistemas Informáticos en Red (ASIR)
-**Curso académico:** 2026/2027  
-**Profesor coordinador de proyectos:** José David Quero Sánchez  
+**Ciclo:** Desarrollo de Aplicaciones Multiplataforma (DAM)  
+**Curso académico:** 2025/2026  
+**Profesor coordinador de proyectos:** Juan Antonio García Gómez   
 
 **Profesorado asistente en las exposiciones**
 
