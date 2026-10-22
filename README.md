@@ -10,13 +10,13 @@
 |------------|
 | Quero Sánchez, José David |
 | Sánchez Martín, Sergio |
-| Banderas Moreno, Sergio |
 | Hormigo Ramírez, David |
 | Pérez Alias, José Antonio / Núñez Rodríguez, Ignacio |
-| Pineda Padilla, Laura |
+| Banderas Moreno, Sergio |
 | Gregory Chicano, Isabel María |
+| Pineda Padilla, Laura |
 
-**Fecha de las exposiciones:** **5 de junio de 2026**, de **9:00** a **13:00**.  
+**Fecha de las exposiciones:** **19 de mayo de 2027**, de **9:00** a **13:00**.  
 **Duración máxima por exposición:** **15 minutos** (incluye demostración y cierre; no se debe superar el tiempo asignado).
 
 ---
@@ -68,13 +68,14 @@ Incluye un subapartado por **cada módulo** (aunque en algún caso la aportació
 
 | Módulo | Profesor/a |
 |--------|------------|
-| Acceso a datos | Juan Antonio García Gómez |
-| Programación multimedia y dispositivos móviles | David Hormigo Ramírez |
-| Programación de servicios y procesos | David Hormigo Ramírez |
-| Desarrollo de interfaces | Carmen Campos Fernández |
-| Servidores y APIs | Juan Antonio García Gómez |
-| Empresa e iniciativa emprendedora II | Rosa Carmen Alcázar Rosal |
-| Sistemas de gestión empresarial | Miguel Ángel Ronda Carracao |
+| Administración de sistemas operativos | José David Quero Sánchez |
+| Servicios de red e Internet | Sergio Sánchez Martín |
+| Implantación de aplicaciones web | David Hormigo Ramírez |
+| Seguridad y alta disponibilidad | José Antonio Pérez Alías / Ignacio Núñez Rodríguez |
+| Administración de sistemas gestores de bases de datos | José Antonio Pérez Alías / Ignacio Núñez Rodríguez |
+| Programación en Python (optativa de 2º) | Sergio Banderas Moreno |
+| Empresa e iniciativa emprendedora II | Isabel María Gregory Chicano |
+| Inglés profesional | Laura Pineda Padilla |
 
 En cada subapartado: **objetivos del módulo cubiertos**, **evidencias en el repo** (enlaces a carpetas, capturas, APIs, scripts, etc.) y, si procede, **limitaciones** o líneas futuras.
 
