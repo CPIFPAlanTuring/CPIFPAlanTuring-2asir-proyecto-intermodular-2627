@@ -97,14 +97,14 @@ Hasta que esa URL no esté indicada y el repositorio sea revisable, **no se podr
 
 Una fila por **proyecto**, en el **mismo orden** que el [planning horario](#planning-horario-5-de-junio-de-2026) (orden de exposición 1 → 9). Sustituye `PENDIENTE` por la URL del repositorio (por ejemplo `https://github.com/usuario/proyecto-dam`).
 
-| Orden (exposición) | Participantes (nombre completo y correo educaAnd) | URL del repositorio (información del proyecto) |
+| Orden (exposición) | Participantes | URL del repositorio (información del proyecto) |
 |:------------------:|---------------------------------------------------|--------------------------------------------------|
-| 1 | Angoloti Cerrada, Lucas (`sbut0512@g.educaand.es`)<br>García Martín, Daniel (`lfaumar2508@g.educaand.es`)<br>Núñez Luque, Carlos (`smarrui1108@g.educaand.es`) | [BookMatch](https://) |
-| 2 | Báez Lezcano, Lisa Jeannette (`fcobsan076@g.educaand.es`)<br>Calvo Verdaguer, María del Carmen (`asalalc1312@g.educaand.es`)<br>Ordóñez López, María (`amormat1010@g.educaand.es`) | [Ziryab](https://) |
-| 3 | Carvajal Benítez, Miguel (`amaltri0308@g.educaand.es`)<br>Ordóñez De la Higuera, Javier (`jbalmar328@g.educaand.es`)<br>Gutiérrez Quintana, Óscar (`jbalmar328@g.educaand.es`) | [TripMateAI](https://) |
-| 4 | Liñán Tagliaferri, Alejandro Rafael (`jlopgon0807b@g.educaand.es`)<br>Ruiz Gómez, Juan Antonio (`acanjim2704@g.educaand.es`)<br>Sánchez Zaragoza, Ricardo (`arommal0105@g.educaand.es`) | [Savorealo](https://) |
-| 5 | Bueno Gálvez, José Carlos (`sbuegon0702@g.educaand.es`)<br>Díaz García, Oscar Manuel (`sgarrui1201@g.educaand.es`)<br>Calvo Verdaguer, Juan Carlos (`mgarluq1102@g.educaand.es`) | [MetaForce](https://) |
-| 6 | Alcaide Fernández, Jose (`mgonort380y@g.educaand.es`) | [GameSage](https://) |
+| 1 | Angoloti Cerrada, Lucas<br>García Martín, Daniel<br>Núñez Luque, Carlos | [NEXUS-CLOUD](https://) |
+| 2 | Báez Lezcano, Lisa Jeannette<br>Calvo Verdaguer, María del Carmen<br>Ordóñez López, María | [DBSHIELD](https://) |
+| 3 | Carvajal Benítez, Miguel<br>Ordóñez De la Higuera, Javier<br>Gutiérrez Quintana, Óscar | [Aether](https://) |
+| 4 | Liñán Tagliaferri, Alejandro Rafael<br>Ruiz Gómez, Juan Antonio<br>Sánchez Zaragoza, Ricardo | [PENDIENTE](https://) |
+| 5 | Bueno Gálvez, José Carlos<br>Díaz García, Oscar Manuel<br>Calvo Verdaguer, Juan Carlos | [Hestia](https://) |
+| 6 | Alcaide Fernández, Jose | [SportGate](https://) |
 
 ---
 
