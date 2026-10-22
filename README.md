@@ -95,8 +95,6 @@ Hasta que esa URL no esté indicada y el repositorio sea revisable, **no se podr
 
 ## Tabla de proyectos, participantes y URL del repositorio
 
-Una fila por **proyecto**, en el **mismo orden** que el [planning horario](#planning-horario-5-de-junio-de-2026) (orden de exposición 1 → 9). Sustituye `PENDIENTE` por la URL del repositorio (por ejemplo `https://github.com/usuario/proyecto-dam`).
-
 | Orden (exposición) | Participantes | URL del repositorio (información del proyecto) |
 |:------------------:|---------------------------------------------------|--------------------------------------------------|
 | 1 | Angoloti Cerrada, Lucas<br>García Martín, Daniel<br>Núñez Luque, Carlos | [NEXUS-CLOUD](https://) |
