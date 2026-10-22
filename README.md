@@ -1,8 +1,8 @@
 # Proyecto Intermodular de 2º ASIR
 **Centro:** CPIFP Alan Turing (Málaga)  
-**Ciclo:** Desarrollo de Aplicaciones Multiplataforma (DAM)  
-**Curso académico:** 2025/2026  
-**Profesor coordinador de proyectos:** Juan Antonio García Gómez   
+**Ciclo:** Administración de Sistemas Informáticos en Red (ASIR)  
+**Curso académico:** 2026/2027  
+**Profesor coordinador de proyectos:** José David Quero Sánchez   
 
 **Profesorado asistente en las exposiciones**
 
