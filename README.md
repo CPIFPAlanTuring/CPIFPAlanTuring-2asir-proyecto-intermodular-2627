@@ -16,7 +16,7 @@
 | Gregory Chicano, Isabel María |
 | Pineda Padilla, Laura |
 
-**Fecha de las exposiciones:** **19 de mayo de 2027**, de **9:00** a **13:00**.  
+**Fecha de las exposiciones:** **19 de mayo de 2027**, de **9:00** a **10:30**.  
 **Duración máxima por exposición:** **15 minutos** (incluye demostración y cierre; no se debe superar el tiempo asignado).
 
 ---
@@ -114,11 +114,11 @@ Cada fila de la [tabla anterior](#tabla-de-proyectos-participantes-y-url-del-rep
 
 ---
 
-## Planning horario (5 de junio de 2026)
+## Planning horario (19 de mayo de 2027)
 
-Ventana oficial: **9:00 – 13:00**. Cada exposición: **máx. 15 min** (incluye demo y preguntas breves del tribunal si las hubiera dentro del bloque).
+Ventana oficial: **9:00 – 10:30**. Cada exposición: **máx. 15 min** (incluye demo y preguntas breves del tribunal si las hubiera dentro del bloque).
 
-Las **nueve** exposiciones son **consecutivas** (sin descanso programado) y ocupan aproximadamente **9:00 – 11:15**.
+Las **seis** exposiciones son **consecutivas** (sin descanso programado) y ocupan aproximadamente **9:00 – 10:30**.
 
 | Hora inicio | Hora fin (aprox.) | Orden | Grupo / persona(s) |
 |-------------:|------------------:|------:|---------------------|
