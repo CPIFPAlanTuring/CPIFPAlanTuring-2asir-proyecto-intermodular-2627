@@ -29,7 +29,7 @@
 4. [Acción requerida: URL en esta tabla](#acción-requerida-url-en-esta-tabla)
 5. [Tabla de proyectos, participantes y URL del repositorio](#tabla-de-proyectos-participantes-y-url-del-repositorio)
 6. [Grupos de proyecto y orden de exposición](#grupos-de-proyecto-y-orden-de-exposición)
-7. [Planning horario (5 de junio de 2026)](#planning-horario-5-de-junio-de-2026)
+7. [Planning horario (19 de mayo de 2027)](#planning-horario-19-de-mayo-de-2027)
 8. [Rúbrica de valoración](#rúbrica-de-valoración)
 
 ---
