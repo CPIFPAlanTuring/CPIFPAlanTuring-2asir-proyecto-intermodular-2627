@@ -102,7 +102,7 @@ Hasta que esa URL no esté indicada y el repositorio sea revisable, **no se podr
 | 3 | Carvajal Benítez, Miguel<br>Ordóñez De la Higuera, Javier<br>Gutiérrez Quintana, Óscar | [Aether](https://) |
 | 4 | Liñán Tagliaferri, Alejandro Rafael<br>Ruiz Gómez, Juan Antonio<br>Sánchez Zaragoza, Ricardo | [AEGIS](https://github.com/ricardo-rsz/Proyecto_AEGIS) |
 | 5 | Bueno Gálvez, José Carlos<br>Díaz García, Oscar Manuel<br>Calvo Verdaguer, Juan Carlos | [Hestia](https://) |
-| 6 | Alcaide Fernández, Jose | [SportGate](https://) |
+| 6 | Alcaide Fernández, Jose | [SportGate](https://github.com/Jocajo-19/SportGate) |
 
 ---
 
