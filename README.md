@@ -74,7 +74,7 @@ Incluye un subapartado por **cada módulo** (aunque en algún caso la aportació
 | Seguridad y alta disponibilidad | José Antonio Pérez Alías / Ignacio Núñez Rodríguez |
 | Administración de sistemas gestores de bases de datos | José Antonio Pérez Alías / Ignacio Núñez Rodríguez |
 | Programación en Python (optativa de 2º) | Sergio Banderas Moreno |
-| Empresa e iniciativa emprendedora II | Isabel María Gregory Chicano |
+| Itinerario Personal para la Empleabilidad II | Isabel María Gregory Chicano |
 | Inglés profesional | Laura Pineda Padilla |
 
 En cada subapartado: **objetivos del módulo cubiertos**, **evidencias en el repo** (enlaces a carpetas, capturas, APIs, scripts, etc.) y, si procede, **limitaciones** o líneas futuras.
